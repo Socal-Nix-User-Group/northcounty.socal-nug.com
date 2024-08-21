@@ -1,4 +1,4 @@
-# Southern Calfironia Nix User Group Site
+# Gateway Cities Nix User Group Site
 
 ## Quickstart
 
