@@ -1,4 +1,4 @@
-# Gateway Cities Nix User Group Site
+# North County Nix User Group Site
 
 ## Quickstart
 

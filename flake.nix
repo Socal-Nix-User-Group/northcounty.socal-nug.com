@@ -1,5 +1,5 @@
 {
-  description = "Gateway Cities Nix User Group Site";
+  description = "North County Nix User Group Site";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-23.11";
