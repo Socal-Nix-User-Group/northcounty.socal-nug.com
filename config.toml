@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://gatewaycities.socal-nug.com/"
+base_url = "https://northcounty.socal-nug.com/"
 title = "North County Nix Users Group"
 
 # Whether to automatically compile all Sass files in the sass directory
