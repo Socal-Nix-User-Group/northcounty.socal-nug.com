@@ -3,6 +3,6 @@ template = "child.markdown.html"
 title = "Frequently Asked Questions"
 +++
 
-## What makes the SoCal NUG so dynamic? 
+## What is different between SNUG and NCN?
 
-Like Nix, this NUG isn't statically typed.
+It's in the Sandy Eigo

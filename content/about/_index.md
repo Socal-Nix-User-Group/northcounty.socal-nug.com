@@ -13,4 +13,4 @@ title = "About Us"
 
 We are the North County Nix Users Group, a community of people passionate about using Nix to build and manage their software.
 
-Whether you are new to Nix or an experience Nix user, come by one of our meetups to learn more and share what you know.
+Whether you are new to Nix or an experienced Nix user, come by one of our meetups to learn more and share what you know.
